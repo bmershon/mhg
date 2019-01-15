@@ -1,4 +1,4 @@
-## Mile High Gliding
+# Mile High Gliding
 
 This little webpage is aimed at making all the employee resources you might need at Mile High Gliding easy to find, especially as we transition through our new ownership. New systems are being set up with the goal to make things as easy as possible for pilots, instructors, students, customers, and bean counters going forward.
 
