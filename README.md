@@ -2,7 +2,7 @@
 
 This little webpage is aimed at making all the employee resources you might need at Mile High Gliding easy to find, especially as we transition through our new ownership. New systems are being set up with the goal to make things as easy as possible for pilots, instructors, students, customers, and bean counters going forward.
 
-contact **Brooks Mershon** (manager) at mershon.aero at gmail dot com if you cannot find what you need.
+Contact **Brooks Mershon** (manager) at mershon.aero at gmail dot com if you cannot find what you need.
 
 ## The Facebook Page
 
