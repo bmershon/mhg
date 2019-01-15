@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Mile High Gliding
 
-You can use the [editor on GitHub](https://github.com/bmershon/mhg/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This little webpage is aimed at making all the employee resources you might need at Mile High Gliding easy to find, especially as we transition through our new ownership. New systems are being set up with the goal to make things as easy as possible for pilots, instructors, students, customers, and bean counters going forward.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+contact **Brooks Mershon** (manager) at mershon.aero at gmail dot com if you cannot find what you need.
 
-### Markdown
+## The Facebook Page
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Mile High Gliding Inc. on Facebook](https://www.facebook.com/milehighglidinginc/)
 
-```markdown
-Syntax highlighted code block
+- **Booking through Facebook Appointments --> Google Calendar**
+- Photos and videos
+- Specials
+- General updates
+- (soon) Paypal gift certificates
 
-# Header 1
-## Header 2
-### Header 3
+## Answering the phone
 
-- Bulleted
-- List
+Soon, the phone calls should be directed to Journeys Aviation on the powered side of the runway, rather than the Mile High Gliding office on the glider side of the runway.
 
-1. Numbered
-2. List
+## Scheduling
 
-**Bold** and _Italic_ and `Code` text
+MHG is open Wednesday through Sunday.
 
-[Link](url) and ![Image](src)
-```
+Employees (and any new students) will need to request access permission to view the following calendar:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Google Calendar](https://calendar.google.com/calendar/b/2?cid=Ym91bGRlcmdsaWRpbmdAZ21haWwuY29t)
 
-### Jekyll Themes
+Events are pumped into this calendar through Facebook appointments and manually added for phone bookings. This calendar should be treated as the "one source of truth" as far as scheduling is concerned and be kept up to date by instructors who are independently scheduling with their respective students.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmershon/mhg/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Bookkeeping
 
-### Support or Contact
+When rides or instruction is completed, cash payments or gift certfiicates should be accounted for and credit cards can be run in the office. If nothing else, please ensure that the big paper log on the desk reflects all tows and flights (who did what and how high) at the end of the day. Tow pilots should try to enter tows that are already in their kneeboard tow logs into this big master log to avoid flights getting lost during a busy day.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+QuickBooks and more painless accounting is on the way!
