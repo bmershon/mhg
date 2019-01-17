@@ -1,6 +1,8 @@
 # Mile High Gliding
 
-This little webpage is aimed at making all the employee resources you might need at Mile High Gliding easy to find, especially as we transition through our new ownership. New systems are being set up with the goal to make things as easy as possible for pilots, instructors, students, customers, and bean counters going forward.
+Mile High Gliding is open Wednesday through Sunday.
+
+Address: 5534 Independence Rd, Boulder, CO 80301
 
 Contact **Brooks Mershon** (manager) at mershon.aero at gmail dot com if you cannot find what you need.
 
@@ -9,17 +11,20 @@ Contact **Brooks Mershon** (manager) at mershon.aero at gmail dot com if you can
 [Mile High Gliding Inc. on Facebook](https://www.facebook.com/milehighglidinginc/)
 
 - **Booking through Facebook Appointments --> Google Calendar**
+- *(Soon) purchase gift certificates through the Facebook page*
+- Events, photos, offers
+- Contact info, hours
 
 ## Answering the phone
 
-Soon, the phone calls should be directed to Journeys Aviation on the powered side of the runway, rather than the Mile High Gliding office on the glider side of the runway.
+(303) 466-8566 (Journeys Aviation front desk)
 
 ## Scheduling
 
-MHG is open Wednesday through Sunday.
-
-Employees (and any new students) will need to request access permission to view the following calendar:
+Employees (tow pilots, instructors, ride pilots) will need to request access permission to view the following calendar:
 
 [Google Calendar](https://calendar.google.com/calendar/b/2?cid=Ym91bGRlcmdsaWRpbmdAZ21haWwuY29t)
 
-Events are pumped into this calendar through Facebook appointments and manually added for phone bookings. This calendar should be treated as the "one source of truth" as far as scheduling is concerned and be kept up to date by instructors who are independently scheduling with their respective students.
+This calendar is edited by employees, including Journeys Aviation staff at the front desk on the powered side of the runway.
+
+Facebook Appointments are automatically added to the calendar. Customers see available time slots for rides based on the current status of the Google Calendar.
