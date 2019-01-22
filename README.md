@@ -19,6 +19,13 @@ Contact **Brooks Mershon** (manager) at mershon.aero at gmail dot com if you can
 
 (303) 466-8566 (Journeys Aviation front desk)
 
+## Timesheets
+
+- [Tow Pilot](https://goo.gl/forms/ReRyA6Uo914Z9o3E3)
+- [Glider Ride Pilot]()
+- [Glider Instructor]()
+- [Line Runner]()
+
 ## Scheduling
 
 Employees (tow pilots, instructors, ride pilots) will need to request access permission to view the following calendar:
